@@ -18,11 +18,18 @@ Así debería funcionar: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
 ```bash
 git clone https://github.com/jagdevsec/fullstack-javascript-project-98.git
 cd fullstack-javascript-project-98
+npm ci
+npm link
 ```
 
 ## Uso
 
 <!-- Agregue ejemplos de ejecución y una grabación de asciinema: esto es lo que miran los empleadores -->
+
+brain-games
+brain-even
+
+Grabación de instalación, partida ganada y partida perdida: https://asciinema.org/a/j7PsZuNauIBpmKOd
 
 ---
 
