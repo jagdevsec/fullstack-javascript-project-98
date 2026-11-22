@@ -1,0 +1,22 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![hexlet-check](https://github.com/jagdevsec/fullstack-javascript-project-98/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jagdevsec/fullstack-javascript-project-98/actions)",
+  "homepage": "https://github.com/jagdevsec/fullstack-javascript-project-98#readme",
+  "bugs": {
+    "url": "https://github.com/jagdevsec/fullstack-javascript-project-98/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagdevsec/fullstack-javascript-project-98.git"
+  },
+  "author": "Javier Andres Gutierrez Galvis",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
