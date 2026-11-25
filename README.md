@@ -30,6 +30,7 @@ brain-games
 brain-even
 
 Grabación de instalación, partida ganada y partida perdida: https://asciinema.org/a/j7PsZuNauIBpmKOd
+Grabación de brain-calc (inicio, victoria y derrota): https://asciinema.org/a/cxOKADq9jcVl6es5
 
 ---
 
